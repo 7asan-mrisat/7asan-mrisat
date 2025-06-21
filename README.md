@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at ['https://github.com/7asan-mrisat?tab=repositories']
 
-- 📫 How to reach me **hasanmri890@gmail.com**
+- 📫 to reach me **hasanmri890@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
