@@ -1,6 +1,7 @@
 # 💫 About Me:
 🌱 I’m currently learning Coding Basics<br><br>👨‍💻 All of my projects are available at ['https://github.com/7asan-mrisat?tab=repositories']<br><br>📫 to reach me hasanmri890@gmail.com
 
+[![](https://visitcount.itsvg.in/api?id=7asan-mrisat&icon=6&color=4)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 <div align="left">
@@ -31,18 +32,15 @@
 </div>
 
 ###
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=7asan-mrisat&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=7asan-mrisat&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=7asan-mrisat&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br clear="both">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=7asan-mrisat&theme=shadow_red&no-frame=true&no-bg=true&margin-w=4)
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7asan-mrisat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=7asan-mrisat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=7asan-mrisat&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=7asan-mrisat&radius=16&theme=modern-lilac&area=true&order=5&custom_title=Activity" height="300" alt="activity-graph graph" /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=7asan-mrisat&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=7asan-mrisat&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=7asan-mrisat&icon=6&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
