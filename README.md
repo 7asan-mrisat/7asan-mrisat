@@ -1,8 +1,11 @@
 # 💫 About Me:
 🌱 I’m currently learning Coding Basics<br><br>👨‍💻 All of my projects are available at ['https://github.com/7asan-mrisat?tab=repositories']<br><br>📫 to reach me hasanmri890@gmail.com
 
-[![](https://visitcount.itsvg.in/api?id=7asan-mrisat&icon=6&color=4)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=7asan-mrisat.7asan-mrisat&left_color=dimgrey&right_color=rebeccapurple"  />
+</div>
 
+###
 ## 🌐 Socials:
 <div align="left">
   <a href="https://discord.com/users/512950897878237185" target="_blank">
