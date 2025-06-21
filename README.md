@@ -3,7 +3,19 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hasan.mrisat) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@7asan.mrisat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hasanmri890@gmail.com) 
+<div align="left">
+  <a href="https://discord.com/users/512950897878237185" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="105" height="55" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/hasan.mrisat/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="105" height="55" alt="instagram logo"  />
+  </a>
+  <a href="hasanmri890@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="105" height="55" alt="gmail logo"  />
+  </a>
+</div>
+
+###
 
 # 💻 Coding Languages :
 <div align="left">
