@@ -1,5 +1,5 @@
 <h1 align="center">YOO 👋, I'm Hasan Mrisat</h1>
-<h3 align="center">16yr old introvert guy just willing to be a backend software engineer :) </h3>
+<h3 align="center">16yr old introvert guy just willing to be a backend software engineer ;) </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7asan-mrisat&label=Profile%20views&color=0e75b6&style=flat" alt="7asan-mrisat" /> </p>
 
