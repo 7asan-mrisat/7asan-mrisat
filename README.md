@@ -1,31 +1,24 @@
-<h1 align="center">YOO 👋, I'm Hasan Mrisat</h1>
-<h3 align="center">16yr old introvert guy just willing to be a backend software engineer ;) </h3>
+# 💫 About Me:
+🌱 I’m currently learning Coding Basics<br><br>👨‍💻 All of my projects are available at ['https://github.com/7asan-mrisat?tab=repositories']<br><br>📫 to reach me hasanmri890@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=7asan-mrisat&label=Profile%20views&color=0e75b6&style=flat" alt="7asan-mrisat" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7asan-mrisat" alt="7asan-mrisat" /></a> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hasan.mrisat) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@7asan.mrisat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hasanmri890@gmail.com) 
 
-- 🌱 I’m currently learning **Coding Basics**
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=7asan-mrisat&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=7asan-mrisat&theme=shadow_red&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=7asan-mrisat&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 👨‍💻 All of my projects are available at ['https://github.com/7asan-mrisat?tab=repositories']
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=7asan-mrisat&theme=shadow_red&no-frame=true&no-bg=true&margin-w=4)
 
-- 📫 to reach me **hasanmri890@gmail.com**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=7asan-mrisat&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+---
+[![](https://visitcount.itsvg.in/api?id=7asan-mrisat&icon=6&color=4)](https://visitcount.itsvg.in)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/hasan.mrisat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasan.mrisat" height="30" width="40" /></a>
-<a href="/https://github.com/7asan-mrisat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://github.com/7asan-mrisat" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=7asan-mrisat&show_icons=true&locale=en&layout=compact" alt="7asan-mrisat" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=7asan-mrisat&show_icons=true&locale=en" alt="7asan-mrisat" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7asan-mrisat&" alt="7asan-mrisat" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
