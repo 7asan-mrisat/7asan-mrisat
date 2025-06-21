@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hasan.mrisat) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@7asan.mrisat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hasanmri890@gmail.com) 
 
-# 💻 Tech Stack:
+# 💻 Coding Languages :
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
