@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 🌱 **I’m 16 yrs old guy whose into Coding**<br><br>👨‍💻 **All of my projects are available at ['https://github.com/7asan-mrisat?tab=repositories']<br><br>📫 to reach me hasanmri890@gmail.com**
 
 <div align="center">
