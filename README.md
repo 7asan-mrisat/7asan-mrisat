@@ -1,5 +1,5 @@
 # 💫 About Me
-🌱 **I’m 16 yrs old , addicted to coding**<br><br>👨‍💻 **All of my projects are available at ['https://github.com/7asan-mrisat?tab=repositories']<br><br>📫 to reach me hasanmri890@gmail.com**
+🌱 **I’m 17 yrs old , **<br><br>👨‍💻 **All of my projects are available at ['https://github.com/7asan-mrisat?tab=repositories']<br><br>📫 to reach me hasanmri890@gmail.com**
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=7asan-mrisat.7asan-mrisat&left_color=dimgrey&right_color=rebeccapurple"  />
